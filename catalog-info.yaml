@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo-2
+  annotations:
+    github.com/project-slug: test-rhdh-jai/test-repo-2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:development/guest
